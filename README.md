@@ -19,11 +19,9 @@ This repository contains all the codes and results of our Satellite Image Classi
    
 2. Install the required Python packages:
 
-3. Open and run the `preprocessing_and_eda.ipynb` Jupyter notebook to understand how the data was preprocessed and explored.
+3. Open and run the Preprocessing and EDA Jupyter notebook to understand how the data was preprocessed and explored.
 
-5. Open and run the `model.ipynb` Jupyter notebook to understand how the model was trained and evaluated.
-
-6. Use the saved model in `model_archive.zip` to make predictions on new satellite images.
+5. Open and run the Notebook Jupyter notebook to understand how the model was trained and evaluated.
 
 ## Results
 
