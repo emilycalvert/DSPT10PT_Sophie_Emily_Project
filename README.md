@@ -1,7 +1,7 @@
 # DSPT10PT_Sophie_Emily_Project
 # Satellite Image Classification Project
 
-This repository contains all the codes and results of our Satellite Image Classification Project. In this project, we trained a Convolutional Neural Network (CNN) model on satellite images to classify different landscapes, such as deserts, water bodies, green areas, and cloudy scenes.
+This repository contains all the codes and results of our Satellite Image Classification Project. In this project, we trained a ResNet Convolutional Neural Network (CNN) model on satellite images to classify different landscapes, such as deserts, water bodies, green areas, and cloudy scenes.
 
 ## Contents
 
